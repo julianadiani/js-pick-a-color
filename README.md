@@ -1,2 +1,12 @@
-# js-pick-a-color
-O projeto é um exercício de um curso de JavaScript onde, ao clicar em um botão, a página exibe uma cor aleatória no fundo e mostra o nome dessa cor. Utilizando HTML para estrutura, CSS para estilo e JavaScript para a lógica da cor aleatória, o código permite que o usuário interaja e explore diferentes cores de forma dinâmica.
+# Exercício de JavaScript: Gerador de Cor Aleatória
+Este é um exercício de JavaScript onde, ao clicar em um botão, a página muda para uma cor aleatória e exibe o nome dessa cor.
+
+**Tecnologias**
+- HTML
+- CSS
+- JavaScript
+
+**Como Usar**
+
+1- Abra o arquivo index.html no seu navegador.<br>
+2- Clique no botão para gerar uma cor aleatória.
